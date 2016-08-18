@@ -10,6 +10,7 @@ public class DisplayMain {
 	
 	static void display(){
 		System.out.println("Inside main display");
+		System.out.println("First Change");
 	}
 
 }
